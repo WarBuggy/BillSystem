@@ -1,3 +1,3 @@
 ﻿
-using var game = new BillSystem.Game1();
+using var game = new BillSystem.Main();
 game.Run();
